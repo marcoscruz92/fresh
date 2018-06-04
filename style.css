@@ -1,0 +1,27 @@
+body{}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+    color: #245c97;
+}
+.navbar, h1{
+    margin-bottom: 30px;
+}
+
+.next-shipment i{
+    color: #245c97;
+}
+
+.badge-primary {
+    color: #fff;
+    background-color: #245c97;
+}
+
+.card {
+    /* height: 460px; */
+    margin-bottom: 2em;
+}
+
+.card-img-top {
+    height: 160px;
+    object-fit: cover;    
+}
