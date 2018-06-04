@@ -13,8 +13,8 @@ body{
     color: #245c97;
 }
 
-.next-shipment h4 {
-    margin-top: 2em;
+.next-shipment h3 {
+    margin: 1em 0;
 }
 
 .badge-primary {
