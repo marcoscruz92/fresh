@@ -1,5 +1,5 @@
 var total = 0;
-
+var itemTotal = 0;
 
 // Sum 1 when "+" button is clicked and add it to label
 $(".plus").on("click", function(){
